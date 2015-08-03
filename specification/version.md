@@ -46,6 +46,9 @@ $ git tag v1.0.0.a1
 #### 参考文档
 
 http://c2.com/cgi/wiki?VersionNumber
+
 http://www.osgi.org/wiki/uploads/Links/SemanticVersioning.pdf
+
 https://www.python.org/dev/peps/pep-0440/
+
 http://legacy.python.org/dev/peps/pep-0396/
