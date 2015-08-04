@@ -6,4 +6,5 @@
 * [JavaScript 开发规范](./specification/javascript.md)
 * [CSS 开发规范](./specification/css.md)
 * [目录结构规范](./specification/structure.md)
+* [基于 Git 的开发工作流](./specification/structure.md)
 
